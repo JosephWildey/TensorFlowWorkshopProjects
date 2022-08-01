@@ -1,7 +1,6 @@
 # TensorFlowWorkshopProjects
 
-
-
+This is my take on the activities and exercises throughout "The TensorFlow workshop." 
 
 References
 
