@@ -1,8 +1,13 @@
 # TensorFlowWorkshopProjects
 
-This is my take on the activities and exercises throughout "The TensorFlow workshop." 
+# Activities
+These are activities in the workbook. They are basically exercises with a step-by-step guide.
 
-Folder navigation should be straight forward. Just trying to keep everything tidy.
+# Exercises
+These are often a lot like the activities, but executing each step is completely up to you. There is no step-by-step guide.
+
+# Projects
+These are projects I have decided to undertake inspired by the Tensorflow Workshop
 
 <p align=center>References</p>
 
